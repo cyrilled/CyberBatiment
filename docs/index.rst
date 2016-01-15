@@ -1,7 +1,7 @@
 CyberBatiment
 =============
 
-Ce site regroupe l'ensemble des comptes rendus de réunion ayant eu lieu jusqu'à présent dans le cadre du projet CyberBatiment. Ce projet concerne la sécurité de sites comme des usines, des lieux de cultes, des hopitaux, des sites sportifs, des complexes commerciaux, etc. L'objectif du projet consiste à développer le logiciel CyberBatiment dans le cadre d'un consortium mettant en oeuvre différentes parties prenantes au sein de différentes organisations (à ce jour, IMAG, Batemis, Bissis et Competis).
+Ce site regroupe l'ensemble des comptes rendus de réunion ayant eu lieu jusqu'à présent dans le cadre du projet CyberBatiment. Ce projet concerne la sécurité de sites comme des usines, des complexes sportifs, des centres d'affaire, etc. L'objectif du projet est de développer le logiciel CyberBatiment dans le cadre d'un consortium regroupant différentes parties prenantes au sein d'organisations partenaire (à ce jour, IMAG, Batemis, Bissis et Competis).
 
 Comptes rendus de réunions
 --------------------------
