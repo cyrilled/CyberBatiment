@@ -66,7 +66,7 @@ CR001
 #. Dans un premier temps une spécification de CyberBatiment devra être faite.
 #. Batemis insiste sur le rôle essentiel de cette spécification pour s'assurer de l'adéquation du système.
 #. Sans cette spécification le rôle de l'IMAG dans le projet pourra être remise en cause.
-#. Pour cette étude il a été décidé de prendre le site de Paraguana à titre d'illustration.
+#. Pour cette étude il a été décidé de prendre le site de Solvay à Curitiba à titre d'illustration.
 #. Il est entendu par toutes les parties prenantes qu'il ne s'agira que d'un exemple.
 #. La prochaine réunion aura lieu à Paraguana en présence de Competis.
 #. En conclusion, il a été observé que ce consortium international ne pourrait fonctionner qui si toutes les parties prenantes parviennent à participer et à mettre en oeuvre leur savoir-faire.
